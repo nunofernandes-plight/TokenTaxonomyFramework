@@ -52,7 +52,7 @@ The taxonomy uses these terms for all tokens:
 - Token Class - is an deployed token from a Template. (i.e. Bitcoin created from the crypto-currency template).
 - Token Instance - a single token in a particular Token Class. (i.e. satoshi balance in your crypto-currency wallet).
 
-![DefinitionStructure](definition-structure.png)
+![DefinitionStructure](images/definition-structure.png)
 
 ### Template Formula and Definition
 
